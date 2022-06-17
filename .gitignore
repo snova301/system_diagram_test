@@ -57,3 +57,5 @@ windows/
 test/
 .metadata
 pubspec.lock
+graphview_example/
+lib/graphview/
